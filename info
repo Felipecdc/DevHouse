@@ -1,0 +1,9 @@
+Nesse arquivo vou estar criando um site para locação de casas..
+Vou estar utilizando react.js, node.js, mongoDB
+
+
+Schema para use do mongoDB até a criação desse context
+Arquivo de modelo e controle para:
+
+-Criação de usuarios,
+-Logando casa com configuração de informações com detalhamento na criação da imagem ( em projetos prestar atenção nessa parte )
